@@ -226,6 +226,9 @@
  {"name": "微信",
   "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/wechat.png"},
 
+  {"name": "知乎",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/zhihu.png"},
+
  {"name": "中国",
   "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/flag/cn.png"},
 
