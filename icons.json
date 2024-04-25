@@ -1,0 +1,228 @@
+{"name": "自用图标库",
+ "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
+ "icons": [
+ {"name": "Amy",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Airport/Amy.png"},
+
+ {"name": "AmyTelecom",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Airport/AmyTelecom.png"},
+
+ {"name": "AmyTelecom_1",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Airport/AmyTelecom_1.png"},
+
+ {"name": "CNIX",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Airport/CNIX.png"},
+
+ {"name": "Mojie2",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Airport/Mojie2.png"},
+
+ {"name": "TiZiOO",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Airport/TiZiOO.PNG"},
+
+ {"name": "Ytoo",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Airport/Ytoo.png"},
+
+ {"name": "AppStore",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/AppStore.png"},
+
+ {"name": "Apple",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Apple.png"},
+
+ {"name": "AppleTV",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/AppleTV.png"},
+
+ {"name": "Area",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Area.png"},
+
+ {"name": "Auto",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Auto.png"},
+
+ {"name": "Available",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Available.png"},
+
+ {"name": "Bili",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Bili.png"},
+
+ {"name": "Bing",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Bing.png"},
+
+ {"name": "ChatGPT3",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/ChatGPT3.png"},
+  
+ {"name": "ChatGPT4",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/ChatGPT4.png"},
+
+ {"name": "ChatGPT5",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/ChatGPT5.png"},
+
+ {"name": "ChatGPT6",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/ChatGPT6.png"},
+
+ {"name": "DisneyPlus",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/DisneyPlus.png"},
+
+ {"name": "Duckduckgo",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Duckduckgo.png"},
+
+ {"name": "Emby",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Emby.png"},
+
+ {"name": "Final",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Final.png"},
+
+ {"name": "ForeignMedia",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/ForeignMedia.png"},
+
+ {"name": "Google Voice",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/GV.PNG"},
+
+ {"name": "Google",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Google.png"},
+
+ {"name": "GoogleDrive",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/GoogleDrive.png"},
+
+ {"name": "JD",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/JD.png"},
+
+ {"name": "shadowrocket",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/shadowrocket.png"},
+
+ {"name": "Loon_1",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Loon_1.png"},
+  
+ {"name": "Loon_2",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Loon_2.png"},
+
+ {"name": "Quantumult_X",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Quantumult_X.png"},
+
+ {"name": "Quantumult_X_2",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Quantumult_X_2.png"},
+
+ {"name": "Quantumult_X_3",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Quantumult_X_3.png"},
+
+ {"name": "stash",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/stash.png"},
+
+ {"name": "stash1",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/stash1.png"},
+
+ {"name": "stash2",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/stash2.png"},
+
+ {"name": "surge",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/surge.png"},
+
+ {"name": "Netease_Music",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Netease_Music.png"},
+
+ {"name": "Netflix",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Netflix.png"},
+
+ {"name": "QQ",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/QQ.png"},
+
+ {"name": "QQRead",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/QQRead.png"},
+
+ {"name": "SS",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/SS.png"},
+
+ {"name": "SSR",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/SSR.png"},
+
+ {"name": "Safari",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Safari.png"},
+
+ {"name": "Spotify",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Spotify.png"},
+
+ {"name": "Telegram",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/Telegram.png"},
+
+ {"name": "TikTok",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/TikTok.png"},
+
+ {"name": "TikTok_1",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/TikTok_1.png"},
+
+ {"name": "TikTok-2",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/TikTok-2.png"},
+
+ {"name": "X",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/X.png"},
+
+ {"name": "YouTube",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/YouTube.png"},
+
+ {"name": "百度",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/baidu.png"},
+
+ {"name": "百度2",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/baidu-2.png"},
+
+ {"name": "box",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/box.png"},
+
+ {"name": "ebay",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/ebay.png"},
+
+ {"name": "ebay1",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/ebay1.png"},
+
+ {"name": "高德地图",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/gaode.png"},
+  
+ {"name": "github",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/github.png"},
+
+ {"name": "gmail",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/gmail.png"},
+
+ {"name": "iCloud",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/iCloud.png"},
+
+ {"name": "microsoft",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/microsoft.png"},
+
+ {"name": "notion2",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/notion2.png"},
+
+ {"name": "onedrive",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/onedrive.png"},
+
+ {"name": "outlook",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/outlook.png"},
+
+ {"name": "起点",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/qidian.png"},
+
+ {"name": "手柄",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/shoubing.png"},
+
+ {"name": "steam",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/steam.png"},
+
+ {"name": "substore",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/substore.png"},
+
+ {"name": "testflight",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/testflight.png"},
+
+ {"name": "天翼云盘",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/tianyiyunpan.png"},
+
+ {"name": "腾讯视频",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/txvideo.png"},
+
+ {"name": "微博",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/weibo.png"},
+   
+ {"name": "小红书",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/xiaohongshu.png"},
+   
+ {"name": "微信",
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/wechat.png"}
+]}
