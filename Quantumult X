@@ -152,6 +152,7 @@ static=ChatGPT, 美国节点, 全部节点, 策略选择, img-url=https://raw.gi
 static=Telegram, 香港节点, 台湾节点, 日本节点, 韩国节点, 狮城节点, 美国节点, 全部节点, 策略选择, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
 static=Instagram, 香港节点, 台湾节点, 日本节点, 韩国节点, 狮城节点, 美国节点, 全部节点, 策略选择, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Instagram.png
 static=Facebook, 香港节点, 台湾节点, 日本节点, 韩国节点, 狮城节点, 美国节点, 全部节点, 策略选择, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png
+static=知乎, 直连模式, 策略选择, 香港节点, 台湾节点, 日本节点, 韩国节点, 狮城节点, 美国节点, 全部节点, img-url=https://raw.githubusercontent.com/Yue-Jsr/Configuration/blob/main/icon/zhihu.png
 static=网易云音乐, 直连模式, server-tag-regex=(?i)(网易|网易云|网易云音乐|音乐|云音乐|Netease|Music|𝐌𝐮𝐬𝐢𝐜|Unbolck|music|🎵|🎶|🎧), img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png
 static=微软服务, 直连模式, 策略选择, 香港节点, 台湾节点, 日本节点, 韩国节点, 狮城节点, 美国节点, 全部节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
 static=苹果服务, 直连模式, 策略选择, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
@@ -249,6 +250,8 @@ host, xp.apple.com, 系统更新
 host-keyword, apple, 苹果服务
 host-keyword, testflight, 苹果服务
 host-keyword, icloud, 苹果服务
+# 知乎
+host-keyword, zhihu, 直连模式
 # 搜狗
 host-keyword, sogou, 直连模式
 # 京东
