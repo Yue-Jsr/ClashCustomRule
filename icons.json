@@ -2,25 +2,25 @@
  "description": "收集互联网公开图标文件，版权属于原作者和商标持有人。", 
  "icons": [
  {"name": "Amy",
-  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Amy.png"},
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Airport/Amy.png"},
 
  {"name": "AmyTelecom",
-  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/AmyTelecom.png"},
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Airport/AmyTelecom.png"},
 
  {"name": "AmyTelecom_1",
-  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/AmyTelecom_1.png"},
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Airport/AmyTelecom_1.png"},
 
  {"name": "CNIX",
-  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/CNIX.png"},
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Airport/CNIX.png"},
 
  {"name": "Mojie2",
-  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Mojie2.png"},
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Airport/Mojie2.png"},
 
  {"name": "TiZiOO",
-  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/TiZiOO.PNG"},
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Airport/TiZiOO.PNG"},
 
  {"name": "Ytoo",
-  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Ytoo.png"},
+  "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/Airport/Ytoo.png"},
 
  {"name": "AppStore",
   "url": "https://raw.githubusercontent.com/Yue-Jsr/Configuration/main/icon/AppStore.png"},
